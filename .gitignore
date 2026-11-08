@@ -15,6 +15,13 @@
 /backend/*/*.iml
 *.i64
 *.idb
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+/unidbg-android/src/test/java/com/ximalaya/traceCode.log
+/unidbg-android/src/test/java/com/ximalaya/ximalaya.apk
 /unidbg-ios/src/test/resources/native/swift/swift_library.o
 /unidbg-ios/src/test/resources/native/swift/swift_library-Swift.h
 /backend/hypervisor/src/main/native/hypervisor/cmake-build-debug/
